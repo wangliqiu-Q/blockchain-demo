@@ -1,0 +1,8 @@
+
+.idea/**
+
+target/**
+
+/*.iml
+/blockchain-demo/command_history.txt
+/blockchain-demo/blockchain_db/
