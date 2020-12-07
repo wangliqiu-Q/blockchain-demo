@@ -1,4 +1,4 @@
-use rust_blockchain::cli::cli::Cli;
+use blockchain_demo::cli::cli::Cli;
 
 /// "a", "b", "c"  
 fn main() {

@@ -1,6 +1,6 @@
-use rust_blockchain::cli::cli::Cli;
-use rust_blockchain::core::miner::Host;
-use rust_blockchain::core::transaction::Transaction;
+use blockchain_demo::cli::cli::Cli;
+use blockchain_demo::core::miner::Host;
+use blockchain_demo::core::transaction::Transaction;
 
 // TODO rocksDb
 fn main() {

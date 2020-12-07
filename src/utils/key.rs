@@ -1,6 +1,6 @@
 use db_key::Key;
 
-/// db-key = "0.1.0"
+// db-key = "0.1.0"
 // pub trait Key<'a>: From<&'a [u8]> + AsRef<[u8]> {}
 
 uint::construct_uint! {
